@@ -1,0 +1,25 @@
+https://youtu.be/iGMriwQ48MY?t=13536
+
+
+
+1xx -> Informational response
+
+2xx -> sucesss
+
+3xx - > redirection
+
+4xx ->client errors
+
+5xx -> server errors
+
+
+
+get- retrieves data
+
+post - submit data
+
+put - updates resource
+
+patch - update part of the resource
+
+delete - delete resource
